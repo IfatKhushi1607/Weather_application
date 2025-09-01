@@ -20,3 +20,13 @@
   margin: 1rem 0;
   font-size: 0.9rem;
 }
+.footer{
+  display: flex;
+  justify-content: center;
+  font-family: sans-serif;
+  
+}
+.footer-text{
+  font-size: medium;
+  font-weight: 500;
+}
