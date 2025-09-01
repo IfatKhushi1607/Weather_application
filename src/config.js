@@ -1,0 +1,1 @@
+export const VITE_APP_ID="c9c25167b67818628913c656cf4880e9"
